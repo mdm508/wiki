@@ -2,21 +2,10 @@
 id: jfmqk2nh2fe8ra3bujnua8x
 title: Root
 desc: ''
-updated: 1677879878717
+updated: 1677882719211
 created: 1677878975853
 ---
-# Welcome to Dendron
+# Welcome to my personal wiki
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+I just set this thing up so its empty now. I hope to add notes and stuff later.
 
-## Lookup
-
-This section contains useful links to related resources.
-
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
-
-here we go
