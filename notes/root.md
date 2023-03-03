@@ -1,15 +1,14 @@
 ---
-id: ryayapnw9rlklxbykurlemu
+id: jfmqk2nh2fe8ra3bujnua8x
 title: Root
 desc: ''
-updated: 1677877686468
-created: 1677875318824
+updated: 1677878975853
+created: 1677878975853
 ---
 # Welcome to Dendron
 
 This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
 
-e
 ## Lookup
 
 This section contains useful links to related resources.

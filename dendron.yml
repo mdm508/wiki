@@ -23,9 +23,6 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: vault
-            workspace: PersonalWiki
-        -
             fsPath: .
             selfContained: true
             name: Dendron
@@ -75,11 +72,6 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
-    workspaces:
-        PersonalWiki:
-            remote:
-                type: git
-                url: https://github.com/mdm508/PersonalWiki
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -89,6 +81,8 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    assetsPrefix: /wiki
+    siteUrl: https://mdm508.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
@@ -113,8 +107,3 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-            - Dendron
