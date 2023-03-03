@@ -1,9 +1,7 @@
 node_modules
 .dendron.*
 build
-seeds
 .next
-pods/service-connections
-vault
-PersonalWiki
-.dendron.cache.*
+.history
+docs
+.backup
