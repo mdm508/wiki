@@ -1,0 +1,410 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678128886944,
+      "created": 1678128886944,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "jfmqk2nh2fe8ra3bujnua8x": {
+      "id": "jfmqk2nh2fe8ra3bujnua8x",
+      "title": "Root",
+      "desc": "",
+      "updated": 1677882719211,
+      "created": 1677878975853,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "a6be9180ac546d75a7518fc5ad69def5",
+      "links": [],
+      "anchors": {
+        "welcome-to-my-personal-wiki": {
+          "type": "header",
+          "text": "Welcome to my personal wiki",
+          "value": "welcome-to-my-personal-wiki",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "0yfkv4ac6qu5dzq60jxrl1g",
+        "1e6k6sikzqnuno0qxrcnjz2"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "1e6k6sikzqnuno0qxrcnjz2": {
+      "fname": "daily",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678128886807,
+      "created": 1678128886807,
+      "id": "1e6k6sikzqnuno0qxrcnjz2",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "phnhpavxi0i0c0p5zy90fri"
+      ],
+      "parent": "jfmqk2nh2fe8ra3bujnua8x",
+      "data": {},
+      "title": "Daily",
+      "schema": {
+        "schemaId": "daily",
+        "moduleId": "daily"
+      }
+    },
+    "phnhpavxi0i0c0p5zy90fri": {
+      "fname": "daily.journal",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678128886807,
+      "created": 1678128886807,
+      "id": "phnhpavxi0i0c0p5zy90fri",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "x1cjwqg99ihrq2uvtyhhtsy"
+      ],
+      "parent": "1e6k6sikzqnuno0qxrcnjz2",
+      "data": {},
+      "title": "Journal",
+      "schema": {
+        "schemaId": "ddpsyr7xs8h3c3x3xxkf22l",
+        "moduleId": "daily"
+      }
+    },
+    "x1cjwqg99ihrq2uvtyhhtsy": {
+      "fname": "daily.journal.2023",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678128886807,
+      "created": 1678128886807,
+      "id": "x1cjwqg99ihrq2uvtyhhtsy",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "k1uzcxod1239rs21sbo1vlw"
+      ],
+      "parent": "phnhpavxi0i0c0p5zy90fri",
+      "data": {},
+      "title": "2023",
+      "schema": {
+        "schemaId": "lratisxa2gj0hifhqoyf9h0",
+        "moduleId": "daily"
+      }
+    },
+    "k1uzcxod1239rs21sbo1vlw": {
+      "fname": "daily.journal.2023.03",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678128886807,
+      "created": 1678128886807,
+      "id": "k1uzcxod1239rs21sbo1vlw",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4phz9snz9hq97ly9p7pux8w",
+        "fkepld9wtsmt0iqjkuh1543",
+        "7b1ohxvs9i0pc2wdz77a6te",
+        "sp6vamgoby43u2h0ipwx8c2"
+      ],
+      "parent": "x1cjwqg99ihrq2uvtyhhtsy",
+      "data": {},
+      "title": "03",
+      "schema": {
+        "schemaId": "ka851a8ry7xp1mlqwjybyvm",
+        "moduleId": "daily"
+      }
+    },
+    "sp6vamgoby43u2h0ipwx8c2": {
+      "id": "sp6vamgoby43u2h0ipwx8c2",
+      "title": "2023-03-06",
+      "desc": "",
+      "updated": 1678119318228,
+      "created": 1678118852257,
+      "traitIds": [
+        "journalNote"
+      ],
+      "custom": {},
+      "fname": "daily.journal.2023.03.06",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "2a28c1502fcacf17758ca56bcdf9e015",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "k1uzcxod1239rs21sbo1vlw",
+      "data": {},
+      "schema": {
+        "schemaId": "pt16pnvko3b8j3d7mdn59hy",
+        "moduleId": "daily"
+      }
+    },
+    "7b1ohxvs9i0pc2wdz77a6te": {
+      "id": "7b1ohxvs9i0pc2wdz77a6te",
+      "title": "2023-03-05",
+      "desc": "",
+      "updated": 1678035394777,
+      "created": 1678034733718,
+      "traitIds": [
+        "journalNote"
+      ],
+      "custom": {},
+      "fname": "daily.journal.2023.03.05",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "3765443b88733635eb787aeb972bf5e3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "k1uzcxod1239rs21sbo1vlw",
+      "data": {},
+      "schema": {
+        "schemaId": "pt16pnvko3b8j3d7mdn59hy",
+        "moduleId": "daily"
+      }
+    },
+    "fkepld9wtsmt0iqjkuh1543": {
+      "id": "fkepld9wtsmt0iqjkuh1543",
+      "title": "2023-03-04",
+      "desc": "",
+      "updated": 1677961137251,
+      "created": 1677960577108,
+      "traitIds": [
+        "journalNote"
+      ],
+      "custom": {},
+      "fname": "daily.journal.2023.03.04",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "c83b3dfdc15e4d18e91c06cf2d6c9742",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "k1uzcxod1239rs21sbo1vlw",
+      "data": {},
+      "schema": {
+        "schemaId": "pt16pnvko3b8j3d7mdn59hy",
+        "moduleId": "daily"
+      }
+    },
+    "4phz9snz9hq97ly9p7pux8w": {
+      "id": "4phz9snz9hq97ly9p7pux8w",
+      "title": "2023-03-03",
+      "desc": "",
+      "updated": 1677882627485,
+      "created": 1677882603765,
+      "traitIds": [
+        "journalNote"
+      ],
+      "custom": {},
+      "fname": "daily.journal.2023.03.03",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "6f94a8cc459b011505d4f50c73816bfa",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "k1uzcxod1239rs21sbo1vlw",
+      "data": {},
+      "schema": {
+        "schemaId": "pt16pnvko3b8j3d7mdn59hy",
+        "moduleId": "daily"
+      }
+    },
+    "0yfkv4ac6qu5dzq60jxrl1g": {
+      "fname": "templates",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678128886806,
+      "created": 1678128886806,
+      "id": "0yfkv4ac6qu5dzq60jxrl1g",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5gsfiuj2kw80fwxjso1x6dd"
+      ],
+      "parent": "jfmqk2nh2fe8ra3bujnua8x",
+      "data": {},
+      "title": "Templates"
+    },
+    "5gsfiuj2kw80fwxjso1x6dd": {
+      "id": "5gsfiuj2kw80fwxjso1x6dd",
+      "title": "Daily Journal Template",
+      "desc": "",
+      "updated": 1678035321488,
+      "created": 1678034485880,
+      "custom": {},
+      "fname": "templates.daily",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "7e416f96e15b7b12a7cbfd3ec07441bb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "0yfkv4ac6qu5dzq60jxrl1g",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "jfmqk2nh2fe8ra3bujnua8x",
+      "title": "Root",
+      "desc": "",
+      "updated": 1677882719211,
+      "created": 1677878975853,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "a6be9180ac546d75a7518fc5ad69def5",
+      "links": [],
+      "anchors": {
+        "welcome-to-my-personal-wiki": {
+          "type": "header",
+          "text": "Welcome to my personal wiki",
+          "value": "welcome-to-my-personal-wiki",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "0yfkv4ac6qu5dzq60jxrl1g",
+        "1e6k6sikzqnuno0qxrcnjz2"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Welcome to my personal wiki\n\nI just set this thing up so its empty now. I hope to add notes and stuff later.\n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "jfmqk2nh2fe8ra3bujnua8x",
+    "title": "Root",
+    "desc": "",
+    "updated": 1677882719211,
+    "created": 1677878975853,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Dendron"
+    },
+    "contentHash": "a6be9180ac546d75a7518fc5ad69def5",
+    "links": [],
+    "anchors": {
+      "welcome-to-my-personal-wiki": {
+        "type": "header",
+        "text": "Welcome to my personal wiki",
+        "value": "welcome-to-my-personal-wiki",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "0yfkv4ac6qu5dzq60jxrl1g",
+      "1e6k6sikzqnuno0qxrcnjz2"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Welcome to my personal wiki\n\nI just set this thing up so its empty now. I hope to add notes and stuff later.\n\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Dendron"
+    }
+  ]
+}

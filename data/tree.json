@@ -1,0 +1,113 @@
+{
+  "roots": [
+    {
+      "key": "1e6k6sikzqnuno0qxrcnjz2",
+      "title": "Daily",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "phnhpavxi0i0c0p5zy90fri",
+          "title": "Journal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "x1cjwqg99ihrq2uvtyhhtsy",
+              "title": "2023",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": [
+                {
+                  "key": "k1uzcxod1239rs21sbo1vlw",
+                  "title": "03",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "children": [
+                    {
+                      "key": "4phz9snz9hq97ly9p7pux8w",
+                      "title": "2023-03-03",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "children": []
+                    },
+                    {
+                      "key": "fkepld9wtsmt0iqjkuh1543",
+                      "title": "2023-03-04",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "children": []
+                    },
+                    {
+                      "key": "7b1ohxvs9i0pc2wdz77a6te",
+                      "title": "2023-03-05",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "children": []
+                    },
+                    {
+                      "key": "sp6vamgoby43u2h0ipwx8c2",
+                      "title": "2023-03-06",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "0yfkv4ac6qu5dzq60jxrl1g",
+      "title": "Templates",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "5gsfiuj2kw80fwxjso1x6dd",
+          "title": "Daily Journal Template",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "1e6k6sikzqnuno0qxrcnjz2": null,
+    "phnhpavxi0i0c0p5zy90fri": "1e6k6sikzqnuno0qxrcnjz2",
+    "x1cjwqg99ihrq2uvtyhhtsy": "phnhpavxi0i0c0p5zy90fri",
+    "k1uzcxod1239rs21sbo1vlw": "x1cjwqg99ihrq2uvtyhhtsy",
+    "4phz9snz9hq97ly9p7pux8w": "k1uzcxod1239rs21sbo1vlw",
+    "fkepld9wtsmt0iqjkuh1543": "k1uzcxod1239rs21sbo1vlw",
+    "7b1ohxvs9i0pc2wdz77a6te": "k1uzcxod1239rs21sbo1vlw",
+    "sp6vamgoby43u2h0ipwx8c2": "k1uzcxod1239rs21sbo1vlw",
+    "0yfkv4ac6qu5dzq60jxrl1g": null,
+    "5gsfiuj2kw80fwxjso1x6dd": "0yfkv4ac6qu5dzq60jxrl1g"
+  },
+  "notesLabelById": {
+    "1e6k6sikzqnuno0qxrcnjz2": "Daily",
+    "phnhpavxi0i0c0p5zy90fri": "Journal",
+    "x1cjwqg99ihrq2uvtyhhtsy": "2023",
+    "k1uzcxod1239rs21sbo1vlw": "03",
+    "4phz9snz9hq97ly9p7pux8w": "2023-03-03",
+    "fkepld9wtsmt0iqjkuh1543": "2023-03-04",
+    "7b1ohxvs9i0pc2wdz77a6te": "2023-03-05",
+    "sp6vamgoby43u2h0ipwx8c2": "2023-03-06",
+    "0yfkv4ac6qu5dzq60jxrl1g": "Templates",
+    "5gsfiuj2kw80fwxjso1x6dd": "Daily Journal Template"
+  }
+}
